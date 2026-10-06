@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=🌌+Desenvolvedor(a)+Full-Stack;🚀+Apaixonado(a)+por+Tecnologia;✨+Criando+o+futuro+linha+por+linha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=🌌+Desenvolvedor+Full-Stack;🚀+Apaixonado+por+Tecnologia;✨+Criando+o+futuro+linha+por+linha" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,15 +17,15 @@
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nodejs,python,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python,linux&theme=tokyonight" />
 </div>
 
 ---
 
 ### 📊 Estatísticas do GitHub (Tema Escuro Estrelado)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
